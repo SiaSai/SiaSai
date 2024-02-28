@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Ilay and I'm a Front-End Developer from Moscow!</h1>
+<h1 align="center">Hi 👋! My name is Ilia and I'm a Front-End Developer from Moscow!</h1>
 
 ###
 
